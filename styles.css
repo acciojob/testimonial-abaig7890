@@ -1,1 +1,48 @@
-/*  your css code here. If applicable */
+.testimonial-seciton {
+    padding: 40px;
+    backgroung: color #f2f2f2;
+
+
+}
+testimonial-section h2 {
+    test-align: center;
+    margin-bottom: 30px;
+}
+
+.testimonial-seciton {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.testimonial-seciton {
+    width: 300px;
+    padding: 20px;
+    background-color: 5px;
+    border-radius: 5px;
+    box-shadow:0px 2px 5 px rgba(red, green, blue, alpha)
+    margin: bottom 20px;
+}
+
+testimonial img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+
+}
+
+testimonal p {
+    margin: 0;
+    font-size: 16ps;
+    line-height: 1.5;
+
+}
+
+testimonal spann {
+    font-size: 14px;
+    display: block;
+    text-align: right;
+    margin-top: 10px;
+}
